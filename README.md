@@ -9,5 +9,6 @@
 ![image alt](https://github.com/darma-web/adimarabali/blob/8a136944d4bdfbab5ee43939f0dc28c17e8da7f7/images/gambarberita4.jpeg)
 ![image alt](https://github.com/darma-web/adimarabali/blob/de082d2d0fc2368cbe8c4dc5a5c844750518a745/images/gambar-berita3.jpeg)
 ![image alt](https://github.com/darma-web/adimarabali/blob/1272b0a3a6e11a5fcea85784409229350737df6d/images/berita5.webp)
+![image alt](https://github.com/darma-web/adimarabali/blob/5eccfaa7bed07d3051e90fbefa57ffe4ddf1e112/images/beritacuaca.webp)
 # adimarabali
 ADIMARA adalah prototype platform yang menghubungkan data lingkungan, inovasi pengolahan limbah, UMKM, dan marketplace hijau dalam satu ekosistem.
